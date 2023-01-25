@@ -1,0 +1,44 @@
+#centerp{
+    
+    width: 96%;
+margin-left: 2rem;
+    border-top: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+    text-align: center;
+    font-style: italic;
+    border-color: #FCA9A4;
+    font-weight:400 ;
+    font-size:18px ;
+    line-height:33px ;
+    color: rgb(27, 116, 94);
+}
+#back{
+    padding-top: 4.2rem;
+    background-image: url("https://mobirise.com/extensions/floram4/floral-studio/assets/images/background1.jpg");
+}
+#container3{
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    margin-top: 6rem;
+    display: block;
+    height: auto;
+}
+
+.card2{
+    border: 1px solid green;
+    width: 22rem;
+    height: 29rem;
+    margin: 2rem;
+}
+#p{
+    height: 2rem;
+    
+    width: 66%;
+    border: 1px solid;
+    text-align: center;
+    padding-bottom: 3rem;
+    border-color: #FCA9A4;
+    font-weight:400 ;
+    color: rgb(27, 116, 94);
+}
